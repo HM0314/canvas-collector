@@ -1,5 +1,6 @@
 # canvas-collector
 AIチャットの出力やメモをローカルに保存・整理するための軽量ツールです。
+https://hm0314.github.io/canvas-collector/
 
 特徴
 - ブラウザだけで動く
